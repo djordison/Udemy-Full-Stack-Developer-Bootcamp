@@ -1,0 +1,60 @@
+Twelve Rules to code:
+
+1. Trick Brain w/ 20 minute Rule
+  - Avoid _any_ context switches, these are hard
+  - Dive directly into tasks
+  - Nurture any habits
+
+2. Learn for a purpose
+ - Create something vs open ended learning
+ - Make a simple dummy app even, this includes your ego.
+ - Challenge yourself past the basics, just in time learning is essential in the real world
+
+3. There is no perfect language
+ - Instead learn the tool that matches what you want to do
+
+4. Make sure you understand every line of code that you are writing.
+ - A key is "why did he do that?" in examples
+ - If you see the word "... simply ..." this is a que
+ - Dig in if you dont understand
+
+5. Its OK not to know.
+ - Software eng has the largest proportion of people who suffer from Imposter Syndrome
+ - Dunning Kruger ~ High on how good you think you are, low on how good you are
+ - Imposter Syndrome ~ Low of how good you think you are, high on how good you are
+ - Thinking >> Knowing. Companies pay you based on how well you think, not how much you know
+
+6. Be a Copycat
+ - Books are OK, but making things is better
+ - Copy functionality of existing software, reverse engineering is very useful
+
+7. Be accountable
+ - Show your work to someone
+ - Put your money where your mouth is: Pay for courses, have a decent laptop, buy books, other wise commit yourself
+
+8. Keep learning
+ - Don't become irrelevant
+ - You need to keep learning if you want to keep making cool and useful things
+
+9. Play Foosball
+ - Can't figure something out?
+ - Go for a walk, sleep on it, play some Foosball
+ - Activate diffuse mode network
+ - Spend more time thinking, less time coding
+
+10. Get a mentor
+ - Embarassing but the best way to learning
+ - A good mentor doesn't tell you what to do, but instead asks you good questions so you can figure it out yourself
+
+11. Chunking
+ - Break big problems into small pieces.
+ - Solve 1 piece right away
+
+12. Break someone else's code
+ - Copy other code over that you interested in
+ - Run it (sanity check)
+ - Start deleting lines and see how it breaks
+ - Test your assumptions of how you think it will fail
+ - Swap the order of execution
+ - Rebuild it from scratch
+ - Can you improve it, or make it better/more efficient.
